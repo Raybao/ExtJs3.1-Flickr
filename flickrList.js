@@ -5,8 +5,8 @@
  * http://www.extjs.com/license
  */
 var flickr_url = 'https://api.flickr.com/services/rest/';
-var user_id= '73493605@N00';
-var api_key = '6717a42800ea96bccd46585719b2612b';
+var user_id= 'xxxxxxx';
+var api_key = 'xxxxxxxxxxxxx';
 
 Ext.onReady(function() {
 
